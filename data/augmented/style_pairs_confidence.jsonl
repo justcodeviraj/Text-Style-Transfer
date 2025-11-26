@@ -1,0 +1,42 @@
+[
+    {
+        "informal": "And so what if it is a rebound relationship for both of you?",
+        "formal": "What if it is a rebound relationship for both of you?",
+        "confidence": 0.8461538461538461
+    },
+    {
+        "informal": "Good luck in your search for the one!",
+        "formal": "Good luck in your search for the one!",
+        "confidence": 1.0
+    },
+    {
+        "informal": "Do you like to argue and fight???",
+        "formal": "Do you like to argue and fight?",
+        "confidence": 0.9285714285714286
+    },
+    {
+        "informal": "So if you're set on that, that's the way to go!!",
+        "formal": "If you are set on that, that is the way to go.",
+        "confidence": 0.8636363636363636
+    },
+    {
+        "informal": "My ex of 3 years cheated.",
+        "formal": "My ex of three years cheated.",
+        "confidence": 1.0
+    },
+    {
+        "informal": "Work at it but don't let him keep you locked up at home.",
+        "formal": "Work at it, but do not let him keep you locked up at home.",
+        "confidence": 0.9583333333333333
+    },
+    {
+        "informal": "Also men get bored and tire way before woman do.",
+        "formal": "Men get bored and tire way before women do.",
+        "confidence": 0.85
+    },
+    {
+        "informal": "She's strong and loving and most of all...really wasn't as happy as she thought she was.",
+        "formal": "She is strong and loving and most of all, she was not as happy as she thought she was.",
+        "confidence": 0.8846153846153846
+    }
+]
