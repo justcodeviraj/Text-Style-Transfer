@@ -39,7 +39,7 @@ def load_data(
                     "formal": formal
                 })
     return dataset
-print(load_data()['train'][10])
+
 class GYAFCDataset(Dataset):
     
     def __init__(self, data, tokenizer, max_length=128, style='formal'):
