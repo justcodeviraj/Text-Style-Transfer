@@ -58,7 +58,7 @@ This process helps in two ways: it generates more training examples from unlabel
 ## Repo Structure
 
 ```
-TST/
+Text-Style-Transfer/
 ├── data/
 │   ├── data_prep.py
 │   ├── gyafc_em/
